@@ -1,0 +1,72 @@
+C:\remote reading system\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.exe
+C:\remote reading system\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.pdb
+C:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.RemoteReadingSystem.resources
+C:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.Properties.Resources.resources
+C:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.exe
+C:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.pdb
+C:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.ServerSet.resources
+H:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.exe
+H:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.pdb
+H:\remote reading system\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.exe
+H:\remote reading system\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.pdb
+H:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.RemoteReadingSystem.resources
+H:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.Properties.Resources.resources
+H:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.ServerSet.resources
+H:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dell\桌面\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.exe
+C:\Documents and Settings\dell\桌面\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.pdb
+E:\远程抄表系统实训\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.exe
+E:\远程抄表系统实训\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.pdb
+E:\远程抄表系统实训\remote reading system\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.exe
+E:\远程抄表系统实训\remote reading system\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.pdb
+E:\远程抄表系统实训\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\远程抄表系统实训\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.RemoteReadingSystem.resources
+E:\远程抄表系统实训\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.Properties.Resources.resources
+E:\远程抄表系统实训\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.ServerSet.resources
+E:\远程抄表系统实训\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\远程抄表系统实训\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.exe
+C:\Documents and Settings\Administrator\桌面\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.pdb
+C:\Documents and Settings\Administrator\桌面\remote reading system\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.exe
+C:\Documents and Settings\Administrator\桌面\remote reading system\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.pdb
+C:\Documents and Settings\Administrator\桌面\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.RemoteReadingSystem.resources
+C:\Documents and Settings\Administrator\桌面\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.ServerSet.resources
+C:\Documents and Settings\Administrator\桌面\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\remote reading system\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.exe
+C:\Documents and Settings\Administrator\桌面\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.pdb
+C:\Documents and Settings\Administrator\桌面\远程集中抄表\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.exe
+C:\Documents and Settings\Administrator\桌面\远程集中抄表\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.pdb
+C:\Documents and Settings\Administrator\桌面\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.RemoteReadingSystem.resources
+C:\Documents and Settings\Administrator\桌面\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.ServerSet.resources
+C:\Documents and Settings\Administrator\桌面\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.exe
+D:\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.pdb
+D:\远程集中抄表\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.exe
+D:\远程集中抄表\exp\RemoteReading\RemoteReading\bin\Debug\RemoteReading.pdb
+D:\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.RemoteReadingSystem.resources
+D:\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.Properties.Resources.resources
+D:\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.ServerSet.resources
+D:\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\远程集中抄表\exp\RemoteReading\RemoteReading\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HUAWEI\Desktop\远程抄表\新建文件夹 (3)\RemoteReading\RemoteReading\bin\Debug\RemoteReading.exe
+C:\Users\HUAWEI\Desktop\远程抄表\新建文件夹 (3)\RemoteReading\RemoteReading\bin\Debug\RemoteReading.pdb
+C:\Users\HUAWEI\Desktop\远程抄表\新建文件夹 (3)\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\远程抄表\新建文件夹 (3)\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.RemoteReadingSystem.resources
+C:\Users\HUAWEI\Desktop\远程抄表\新建文件夹 (3)\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\远程抄表\新建文件夹 (3)\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.ServerSet.resources
+C:\Users\HUAWEI\Desktop\远程抄表\新建文件夹 (3)\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\远程抄表\新建文件夹 (3)\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\远程抄表\新建文件夹 (3)\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.exe
+C:\Users\HUAWEI\Desktop\远程抄表\新建文件夹 (3)\RemoteReading\RemoteReading\obj\x86\Debug\RemoteReading.pdb

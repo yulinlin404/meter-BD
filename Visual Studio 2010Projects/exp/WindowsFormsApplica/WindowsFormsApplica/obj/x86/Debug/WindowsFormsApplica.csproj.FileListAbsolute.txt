@@ -1,0 +1,9 @@
+C:\remote reading system\exp\RemoteReading\Visual Studio 2010Projects\exp\WindowsFormsApplica\WindowsFormsApplica\bin\Debug\WindowsFormsApplica.exe
+C:\remote reading system\exp\RemoteReading\Visual Studio 2010Projects\exp\WindowsFormsApplica\WindowsFormsApplica\bin\Debug\WindowsFormsApplica.pdb
+C:\remote reading system\exp\RemoteReading\Visual Studio 2010Projects\exp\WindowsFormsApplica\WindowsFormsApplica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\remote reading system\exp\RemoteReading\Visual Studio 2010Projects\exp\WindowsFormsApplica\WindowsFormsApplica\obj\x86\Debug\WindowsFormsApplica.Form1.resources
+C:\remote reading system\exp\RemoteReading\Visual Studio 2010Projects\exp\WindowsFormsApplica\WindowsFormsApplica\obj\x86\Debug\WindowsFormsApplica.Properties.Resources.resources
+C:\remote reading system\exp\RemoteReading\Visual Studio 2010Projects\exp\WindowsFormsApplica\WindowsFormsApplica\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\remote reading system\exp\RemoteReading\Visual Studio 2010Projects\exp\WindowsFormsApplica\WindowsFormsApplica\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\remote reading system\exp\RemoteReading\Visual Studio 2010Projects\exp\WindowsFormsApplica\WindowsFormsApplica\obj\x86\Debug\WindowsFormsApplica.exe
+C:\remote reading system\exp\RemoteReading\Visual Studio 2010Projects\exp\WindowsFormsApplica\WindowsFormsApplica\obj\x86\Debug\WindowsFormsApplica.pdb
